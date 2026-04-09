@@ -14,3 +14,8 @@ This project analyzes publication metadata using an RPC-based server. It retriev
 
 ```bash
 python MDS202522_Assignment.py
+
+## 📸 Proof of Execution (Codespace)
+Below is the screenshot verifying the successful execution of this application within the GitHub Codespace, achieving a 10/10 score:
+
+![Execution Result](output_screenshot.png)
